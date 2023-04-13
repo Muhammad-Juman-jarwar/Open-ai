@@ -1,5 +1,0 @@
-export { default as Article } from './Article/Article'
-export { default as Action } from './Action/Action'
-export { default as Brand } from './Brand/Brand'
-export { default as Navbar } from './Navbar/Navbar'
-export { default as Feature } from './feature/Feature'
